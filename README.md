@@ -1,4 +1,4 @@
-# Book-Recommendation-System-with-Collaborative-Filtering-using-C
+# Book-Recommendation-System-by-Collaborative-Filtering-using-C
 System that recommends a new book by looking at a person's previous choices with the collaborative filtering method. <br>
 
 System includes 3 subsections: <br>
